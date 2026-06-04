@@ -6,7 +6,7 @@
         },
         "qt-ohos-patch": {
             "gc_url": "https://gitcode.com/openharmony-sig/qt.git",
-            "gh_url": "https://github.com/liys-online/qt.git"
+            "gh_url": "https://github.com/LinkLGP/qt.git"
         }
     },
     "dependencies": {
